@@ -1,0 +1,91 @@
+VkCode
+08 Back Space
+09 Tab
+0D Enter
+10 Shift
+11 Ctrl
+12 Alt
+14 Caps Lock
+15 IME 한글 모드
+1B Esc
+20 Space
+21 Page Up
+22 Page Down
+23 End
+24 Home
+25 Left
+26 Up
+27 Right
+28 Down
+2D Insert
+2E Delete
+30 0
+31 1
+32 2
+33 3
+34 4
+35 5
+36 6
+37 7
+38 8
+39 9
+41 A
+42 B
+43 C
+44 D
+45 E
+46 F
+47 G
+48 H
+49 I
+4A J
+4B K
+4C L
+4D M
+4E N
+4F O
+50 P
+51 Q
+52 R
+53 S
+54 T
+55 U
+56 V
+57 W
+58 X
+59 Y
+5A Z
+60 Numpad 0
+61 Numpad 1
+62 Numpad 2
+63 Numpad 3
+64 Numpad 4
+65 Numpad 5
+66 Numpad 6
+67 Numpad 7
+68 Numpad 8
+69 Numpad 9
+6A Numpad *
+6B Numpad +
+6C Numpad Enter
+6D Numpad -
+6E Numpad .
+6F Numpad /
+70 F1
+71 F2
+72 F3
+73 F4
+74 F5
+75 F6
+76 F7
+77 F8
+78 F9
+79 F10
+7A F11
+7B F12
+A0 LShift
+A1 RShift
+A2 LCtrl
+A3 RCtrl
+A4 LAlt
+A5 RAlt

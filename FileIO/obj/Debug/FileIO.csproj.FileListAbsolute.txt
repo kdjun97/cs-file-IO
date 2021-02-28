@@ -1,0 +1,14 @@
+C:\Users\김동준\source\repos\FileIO\FileIO\bin\Debug\FileIO.exe.config
+C:\Users\김동준\source\repos\FileIO\FileIO\bin\Debug\FileIO.exe
+C:\Users\김동준\source\repos\FileIO\FileIO\bin\Debug\FileIO.pdb
+C:\Users\김동준\source\repos\FileIO\FileIO\obj\Debug\FileIO.csprojAssemblyReference.cache
+C:\Users\김동준\source\repos\FileIO\FileIO\obj\Debug\FileIO.csproj.CoreCompileInputs.cache
+C:\Users\김동준\source\repos\FileIO\FileIO\obj\Debug\FileIO.exe
+C:\Users\김동준\source\repos\FileIO\FileIO\obj\Debug\FileIO.pdb
+C:\Users\Dongjun\source\repos\FileIO\FileIO\bin\Debug\FileIO.exe.config
+C:\Users\Dongjun\source\repos\FileIO\FileIO\bin\Debug\FileIO.exe
+C:\Users\Dongjun\source\repos\FileIO\FileIO\bin\Debug\FileIO.pdb
+C:\Users\Dongjun\source\repos\FileIO\FileIO\obj\Debug\FileIO.csprojAssemblyReference.cache
+C:\Users\Dongjun\source\repos\FileIO\FileIO\obj\Debug\FileIO.csproj.CoreCompileInputs.cache
+C:\Users\Dongjun\source\repos\FileIO\FileIO\obj\Debug\FileIO.exe
+C:\Users\Dongjun\source\repos\FileIO\FileIO\obj\Debug\FileIO.pdb
