@@ -1,4 +1,3 @@
-﻿//Copyright ⓒ 2020. 김동준. All rights Reserved 
 using System;
 using System.Collections.Generic;
 using System.Linq;
